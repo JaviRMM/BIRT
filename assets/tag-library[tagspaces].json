@@ -1,0 +1,60 @@
+{ "appName": "TagSpaces", "appVersion": "5.6.1", "settingsVersion": 3, "tagGroups": [
+  {
+    "title": "Pantalla",
+    "uuid": "collected_tag_group_id",
+    "children": [
+      {
+        "title": "pantallaPrincipal",
+        "color": "#9fc6e7ff",
+        "textcolor": "#000000ff",
+        "type": "sidecar"
+      },
+      {
+        "title": "creditos",
+        "color": "#9fc6e7ff",
+        "textcolor": "#000000ff",
+        "type": "sidecar"
+      },
+      {
+        "title": "level",
+        "color": "#9fc6e7ff",
+        "textcolor": "#000000ff",
+        "type": "sidecar"
+      }
+    ],
+    "created_date": 1700400140155,
+    "color": "#9fc6e7ff",
+    "textcolor": "#000000ff",
+    "modified_date": 1700400434195,
+    "expanded": true
+  },
+  {
+    "title": "Tipo de Archivo",
+    "uuid": "9977c2954e15492bbbec9ecc6768cd9a",
+    "children": [
+      {
+        "title": "image",
+        "color": "#fad165ff",
+        "textcolor": "#000000ff",
+        "type": "sidecar"
+      },
+      {
+        "title": "audio",
+        "color": "#fad165ff",
+        "textcolor": "#000000ff",
+        "type": "sidecar"
+      },
+      {
+        "title": "pdf",
+        "color": "#fad165ff",
+        "textcolor": "#000000ff",
+        "type": "sidecar"
+      }
+    ],
+    "created_date": 1700400380307,
+    "color": "#fad165ff",
+    "textcolor": "#000000ff",
+    "modified_date": 1700400403955,
+    "expanded": true
+  }
+]}
